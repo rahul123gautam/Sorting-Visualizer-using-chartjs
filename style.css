@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.nav{
+    background-color: rgb(247, 58, 90);
+    font-weight: bold;
+    height: 100px;
+}
+.btn{
+    background-color: rgb(247, 58, 90);
+    cursor: pointer;
+    border-style: none;
+    font-size: 16px;
+    color: #fff;
+    font-weight: bold;
+}
+#btnid{
+   margin-left: 45px;
+   margin-bottom: 20px;
+}
+.all-btn-div{
+    display: flex;
+    /* flex-direction: row; */
+    /* width: 100%; */
+    margin-top: 15px;
+    justify-content:space-between;
+}
+
+#myChart{
+    margin: 35px 10px 0 10px;
+}
+.title{
+    /* text-align: center;
+    background-image: url(./5818bbb7-2b2a-4672-9ea5-01f9d2aac0fa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip:text;
+    -webkit-background-clip: text;
+    color: transparent; */
+    text-align: center;
+    padding-top: 14px;
+}
